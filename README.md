@@ -38,7 +38,7 @@ The technical cornerstone of hahndcode. This team is composed of senior architec
 
 We are always open to collaboration on high-impact projects.
 
-* **LinkedIn:** [Your Professional Link]
+* **LinkedIn:** https://www.linkedin.com/in/hermannhahn/
 * **Location:** Based in Brazil 🇧🇷 | German-inspired precision.
 
 ---
